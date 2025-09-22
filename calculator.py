@@ -4,7 +4,7 @@ print("2- Subtraction")
 print("3 -Multiplication")
 print("4-Division")
 print("5- Exits")
-option=int(input("Enter your option:"))
+option=int(input("Enter your option(1-5):"))
 result=0
 num1=float(input("Enter first number:"))
 num2=float(input("Enter second number:"))
