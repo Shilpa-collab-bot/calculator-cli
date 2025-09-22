@@ -38,7 +38,8 @@ Select operation:
 Enter your option (1-5): 1
 Enter first number: 10
 Enter second number: 5
-The Result is: 15
+The Result is: 15.0
+
 
 
 
